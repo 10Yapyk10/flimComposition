@@ -47,7 +47,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
-    "publishEditFolder": false
+    "publishEditFolder": true
   },
   "pages": {
     "index.html": {
